@@ -1,0 +1,10 @@
+summary: At the bottom of the Contacts page, a Google map is displayed not completely,
+project : site example.com,
+version : 1.0,
+priority : medium,
+severity :major,
+status : new,
+author: Safina_Dinara,
+assigned_to: test coordinator,
+result : Google map is not fully displayed on the site,
+expected_result : Google map is fully displayed on the site

@@ -11,11 +11,17 @@
 
 2. Запушить все ветки на внешний репозиторий
  === `git push -u origin Postman`
+ 
  === `git push -u origin Jmeter`
+ 
  === `git push -u origin Check_lists`
+ 
  === `git push -u origin Bug_Reports`
+ 
  === `git push -u origin SQL`
+ 
  === `git push -u origin Charles`
+ 
  === `git push -u origin Mobile_testing`
 
 3. В ветке Bug Reports сделать текстовый документ со структурой баг репорта

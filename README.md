@@ -26,15 +26,19 @@
 
 3. В ветке Bug Reports сделать текстовый документ со структурой баг репорта
  === `git checkout Bug_Reports`
+ 
  === `vim bug_report.txt`
 
 4. Запушить структуру багрепорта на внешний репозиторий
  === `git add .`
+ 
  === `git commit -m "Add bug_report.txt file"`
+ 
  === `git push`
 
 5. Вмержить ветку Bug Reports в Main
  === `git checkout main`
+ 
  === `git merge Bug_Reports`
 
 6. Запушить main на внешний репозиторий. === `git push`
@@ -44,12 +48,16 @@
 
 8. Запушить структуру на внешний репозиторий
  === `git add .`
+ 
  === `git commit -m "Add check_list.txt file"`
+ 
  === `git push`
 
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
  === `кликнуть на кнопку Compare & Pull Request`
+ 
  === `нажать Create pull request`
+ 
  === `нажать Merge pull request`
 
 10. Синхронизировать Внешнюю и Локальную ветки Main
